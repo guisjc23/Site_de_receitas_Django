@@ -10,7 +10,7 @@ Django: modelo, rotas e views
 | :fire: Curso     | https://cursos.alura.com.br/course/fundamentos-django-2
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/guisjc23/Site_de_receitas_/master/static/img/bg-img/foto_receita.png#vitrinedev)
+![](https://raw.githubusercontent.com/guisjc23/Site_de_receitas_Django/main/static/img/core-img/hamburger.png#vitrinedev)
 
 ## Detalhes do projeto
 
